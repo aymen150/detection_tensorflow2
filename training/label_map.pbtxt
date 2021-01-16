@@ -1,0 +1,16 @@
+item {
+  name: "Stop sign"
+  id: 1
+}
+item {
+  name: "Car"
+  id: 2
+}
+item {
+  name: "Traffic sign"
+  id: 3
+}
+item {
+  name: "Traffic light"
+  id: 4
+}

@@ -1,0 +1,4 @@
+Traffic light 502.4 497.92 509.44 510.08
+Traffic light 536.96 490.24 544.0 504.32
+Traffic light 606.08 497.92 611.2 508.16
+Traffic light 622.08 517.12 627.2 524.16
